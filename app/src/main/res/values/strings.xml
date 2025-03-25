@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <!-- Category Array -->
+    <string-array name="category_array">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <!-- Length Units -->
+    <string-array name="length_units">
+        <item>Inch</item>
+        <item>Cm</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Km</item>
+    </string-array>
+
+    <!-- Weight Units -->
+    <string-array name="weight_units">
+        <item>Pound</item>
+        <item>Kg</item>
+        <item>Ounce</item>
+        <item>G</item>
+        <item>Ton</item>
+    </string-array>
+
+    <!-- Temperature Units -->
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
